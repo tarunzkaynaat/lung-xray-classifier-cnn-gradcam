@@ -62,7 +62,7 @@ interpretable and transparent.
 
 ## 🗂️ Repository Structure
 
----
+```
 
 classifier-cnn-gradcam/
 │
@@ -70,10 +70,12 @@ classifier-cnn-gradcam/
 └── report/
     └── image_processing_project_report.pdf
 
----
+```
 
 > The full implementation including data pipeline, model training,
 > evaluation, and Grad-CAM is documented in the project report.
+
+---
 
 ## ⚠️ Limitations
 
