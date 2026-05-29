@@ -62,6 +62,8 @@ interpretable and transparent.
 
 ## 🗂️ Repository Structure
 
+---
+
 classifier-cnn-gradcam/
 │
 ├── README.md
